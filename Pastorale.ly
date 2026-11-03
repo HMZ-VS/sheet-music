@@ -7,6 +7,7 @@
 
 \score {
   \relative c {
+  \tempo 4. = 56
   \key g \major
   \time 12/8
   \clef bass
